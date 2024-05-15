@@ -3,3 +3,9 @@
 # The script run the 'whoami' command under the user passed as an argument
 
 sudo -u "$1" whoami
+
+# Check if the sudo command succeeded
+if [ $? -ne 0 ]; then
+  echo "Failed to run whoami as user $1"
+  exit 1
+fi
