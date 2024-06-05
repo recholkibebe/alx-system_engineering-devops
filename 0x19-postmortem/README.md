@@ -40,8 +40,7 @@ Automate Failover Testing: Develop automated tests to simulate failover scenario
 Update Documentation: Create detailed documentation for database failover procedures and protocols.
 Training: Conduct training sessions for on-call engineers and database administrators on handling failover issues.
 Review Recent Changes: Audit recent changes to the system to ensure no other potential issues exist.
-This incident highlighted the critical nature of maintaining robust failover configurations and the importance of comprehensive monitoring and training. By addressing these areas, we aim to prevent similar outages in the future and improve the resilience of our platform.
-
+This incident highlighted the critical nature of maintaining robust failover configurations and the importance of comprehensive monitoring and training. By addressing these areas, we aim to prevent similar outages in the future and improve the resilience of our platform
 
 
 
